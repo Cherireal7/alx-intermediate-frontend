@@ -1,0 +1,4 @@
+1. Installed nvm using the curl command.
+2. Restarted terminal.
+3. Installed Node.js version 20.16 using nvm.
+4. Installed sass version 3.7.4 using npm.
